@@ -11,8 +11,7 @@ tags:
   - sharing
 ---
 
-Mission: allow a person to care for another person digitally in a safe and secure way
-
+1
 Delegated access allows another person to act on another persons’ behalf.
 
 As part of NHS login I was involved in the discovery that focused on solving the problem of allowing 9 million carers to help care for another person digitally.
