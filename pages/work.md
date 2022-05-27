@@ -1,10 +1,10 @@
 ---
 layout: layouts/blog.njk
-title: Blog - AireBorn Digital Ltd
+title: Work
 metaDescription: A sample Blog page listing various posts and authors.
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /work/index.html
 eleventyNavigation:
-  key: Blog
+  key: Work
   order: 2
 ---

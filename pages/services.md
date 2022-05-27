@@ -1,5 +1,5 @@
 ---
-title: Services - AireBorn Digital Ltd
+title: Services
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /services/index.html
@@ -26,4 +26,4 @@ We can look at your whole service from end to end. A user doesn't start and end 
 ### Accessibility Audit
 We can offer an accessibilty audit of your service if you need one. Whatever your needs are we're not judgy...even if it's because you need to tick a box for an assessment then that works for us. 
 
-[Find out about our accessibily audits](/accessibility-audit)
+[Find out more about our accessibily audits](/accessibility-audit)
