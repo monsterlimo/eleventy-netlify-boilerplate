@@ -43,7 +43,3 @@ The Prior Notification List is a legacy function that holds patients before they
 GP practice staff check their GP system to confirm whether a patient will be invited for screening.
 
 We removed manual validation and mapped to the Public Health England guidance to reduce risk.
-
-Status: In development
-
-Users: GP practice staff
