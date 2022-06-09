@@ -9,4 +9,6 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-Get in touch with {{ metadata.company }} if you require more information on any of our services, [just drop us an email](mailto:mattnixon79@googlemail.com).
+Get in touch with {{ metadata.company }} if you require more information on any of our services.
+
+<a href="mailto:mattnixon79@googlemail.com" class="button" role="button">Drop us an email</a>
