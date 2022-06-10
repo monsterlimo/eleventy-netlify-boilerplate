@@ -18,10 +18,10 @@ Some things are really obvious at first glance and others take time and research
 Our UX Design service is not bound to a digital screen, it could be a simple letter, telephone system or a whole holiday experience from door to hotel door (see service design).
 
 ### UI Design
-Do you just want shiny things then we do that too. We can design or redesign your current service based on your requirements. We'll always try our expertise in UX design to help improve how your site works...we just can't help ourselves.
+Do you just want shiny things then we do that too. We can design or redesign your current service based on your requirements. We'll always try and sprinkle our expertise in UX design to help improve how your site works...we just can't help ourselves.
 
 ### Service Design
-We can look at your whole service from end to end. A user doesn't start and end their journey through your service as soon as they visit and leave your website. At Aireborn Digital Ltd we consider the before, after and all those other intricate layers that make up your service. We can evaluate how your service currently works by talking to your experts and with additional research we can understand where your users are really struggling. This leads nicely back to our UX design service for a full end to end redesign.
+We can look at your whole service from end to end. A user doesn't start and end their journey through your service as soon as they visit and leave your website. At {{ metadata.company }} we consider the before, after and all those other intricate layers that make up your service. We can evaluate how your service currently works by talking to your experts and with additional research we can understand where your users are really struggling. This leads nicely back to our UX design service for a full end to end redesign.
 
 ### Accessibility Audit
 We can offer an accessibilty audit of your service if you need one. Whatever your needs are we're not judgy...even if it's because you need to tick a box for an assessment then that works for us. 
