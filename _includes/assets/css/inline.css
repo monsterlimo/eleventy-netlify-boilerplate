@@ -302,6 +302,24 @@ button {
 		/* padding: 0;*/
 	}
 
+	.hero {
+		padding: 0;
+		/*display: block;*/
+		margin: 0;
+		padding-bottom: 3em;
+	}
+
+	.hero h1 {
+		font-size: unset;
+		font-size: 2em;
+		padding: 1em;
+	}
+
+	a[href].button,
+	a[href]:visited.button {
+		/*margin-bottom: 40px;*/
+	}
+
 	.content {
 		margin: 0;
 		padding: 0em 2em 1em 2em;
