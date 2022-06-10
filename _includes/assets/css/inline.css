@@ -267,3 +267,49 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+
+@media only screen and (max-width: 875px) {
+	/*
+	body {
+	  background-color: lightblue;
+	}
+	*/
+	header em {
+		float: none;
+		margin: 0;
+		padding: 1em 1em 0 1em;
+		width: 100%;
+	}
+
+	header nav {
+		float: none;
+		margin:0;
+		padding: 1em 1em 0 1.5em;
+		width: 100%;
+	}
+
+	header nav ul {
+		float: none;
+	}
+
+	header nav ul li a[href],
+	header nav ul li a[href]:not(:hover),
+	header nav ul li a[href]:hover,
+	header nav ul li a[href]:visited
+	{
+		background: none;
+		/* padding: 0;*/
+	}
+
+	.content {
+		margin: 0;
+		padding: 0em 2em 1em 2em;
+	}
+
+	footer {
+		padding: 2em;
+	}
+
+
+  }
