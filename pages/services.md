@@ -23,9 +23,9 @@ Do you just want shiny things then we do that too. We can design or redesign you
 ### Service Design
 We can look at your whole service from end to end. A user doesn't start and end their journey through your service as soon as they visit and leave your website. At {{ metadata.company }} we consider the before, after and all those other intricate layers that make up your service. We can evaluate how your service currently works by talking to your experts and with additional research we can understand where your users are really struggling. This leads nicely back to our UX design service for a full end to end redesign.
 
-### Accessibility Audit
+<!-- ### Accessibility Audit
 We can offer an accessibilty audit of your service if you need one. Whatever your needs are we're not judgy...even if it's because you need to tick a box for an assessment then that works for us. 
 
-[Find out more about our accessibily audits](/accessibility-audit)
+[Find out more about our accessibily audits](/accessibility-audit) -->
 
 <a href="mailto:mattnixon79@googlemail.com" class="button" role="button">Drop us an email</a>
