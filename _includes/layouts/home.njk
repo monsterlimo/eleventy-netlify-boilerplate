@@ -3,4 +3,12 @@ layout: layouts/base.njk
 section: home
 ---
 {% include "components/hero.njk" %}
-{{ layoutContent | safe }}
+{% include "components/image.njk" %}
+
+<div class="content">
+<h2 style="margin-top:48px">What we do</h2>
+<p style="width: 50%">Here at {{ metadata.company }} we specialise in user centred design, covering UX design, Interaction design, UI design and service design.</p>
+<p style="width: 50%">Our strengths are seeing beyond the complex and finding simplier solutions that work better for your users and your stakeholders. We have experience working on large national health systems (NHS Cervical Screening), school procurement and an indentification platform for the NHS App. We can really get under the problem for both your external and internal users...from simple forms to admin system for power users.</p>
+<p><a href="/services" style="font-weight:bold; ">Find out how we can help you ></a></p>
+</div>
+</div>{{ layoutContent | safe }}

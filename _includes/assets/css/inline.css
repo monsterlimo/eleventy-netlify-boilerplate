@@ -44,10 +44,22 @@ code {
 	color: var(--background);
 	padding: 10%;
 	text-align: center;
+	/* background-image: url("/_includes/assets/images/nhs-login-user-journey-06.jpg");
+	background-repeat: no-repeat, repeat;
+	background-position: center;
+  	background-size: cover; */
 }
 
 .hero h1 {
 	font-size: 4vw;
+}
+
+.background-image {
+	background-image: url("/_includes/assets/images/nhs-login-user-journey-06.jpg");
+	background-repeat: no-repeat, repeat;
+	background-position: bottom;
+  	background-size: cover;
+	height: 500px;
 }
 
 a[href].button,
