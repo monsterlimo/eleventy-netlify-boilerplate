@@ -8,7 +8,7 @@ eleventyNavigation:
   key: About
   order: 0
 ---
-<img src="/_includes/assets/images/matt-nixon-interaction-designer.jpg" alt="Matt Nixon, Interaction Designer with over 20 years design experience" style="width: 50%; float: right"/>
+<img class="nopadding" src="/_includes/assets/images/matt-nixon-interaction-designer.jpg" alt="Matt Nixon, Interaction Designer with over 20 years design experience" style="width: 50%; float: right"/>
 <p style="width: 50%; padding-right: 24px">
 {{ metadata.company }} was founded in 2022 by Matt Nixon from Leeds, bringing to the company 20 years of experience across UX design, development and traditional graphic design.
 </p>
