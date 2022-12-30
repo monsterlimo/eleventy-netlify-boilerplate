@@ -30,7 +30,9 @@ main {
 .content {
 	margin: 0;
 	padding: 0 5.5em;
-	margin-right: 10em
+	margin-right: 10em;
+	max-width: 1400px;
+	margin:auto;
 }
 
 p,
@@ -110,6 +112,7 @@ header,
 main,
 footer {
 	/*padding: 1em;*/
+	
 }
 
 footer {
