@@ -20,7 +20,7 @@ Ideally your service should be accessible for all users...in fact all public fac
 It may be that you want to make sure everyone can access your services or you've been told to tick a box. Ideally we hope it's the first option but any improvement from an accessibilty point of view is better than no improvement so no shaming here.
 
 #### How much does this cost?
-~~How long is a piece of string~~ We try and offer a flat rate but we know that not all websites are the same, some small and complex and others are huge and simple. To make sure we're offering a fair price we will ask for some details about your service such as how many pages, are there any key pages that are more complex.
+~~Hw loong is a piece of string~~ We try and offer a flat rate but we know that not all websites are the same, some small and complex and others are huge and simple. To make sure we're offering a fair price we will ask for some details about your service such as how many pages, are there any key pages that are more complex.
 
 #### You still haven't told us how much it will cost?
 You've got me there, okay so lets say you have a 4 page marketing page with a home, about, services, contact...so just like the site you're on now then we could create an audit report for £250.

@@ -35,9 +35,9 @@ We can look at your whole service from end to end. A user doesn't start and end 
 
 <figcaption><strong>Technical illustration for onboarding to NHS login service</strong></figcaption>
 
-<!-- ### Accessibility Audit
-We can offer an accessibilty audit of your service if you need one. Whatever your needs are we're not judgy...even if it's because you need to tick a box for an assessment then that works for us. 
+### Interaction Design 1-to-1 training
+We can offer an intro to interaction design specifically using the Gov.uk prototyping kit. Our training is a beskpoke service tailored to your needs.
 
-[Find out more about our accessibily audits](/accessibility-audit) -->
+[Find out more about our interaction designer training course](/interaction-design-training)
 
 <a href="mailto:mattnixon79@googlemail.com" class="button" role="button">Drop us an email</a>
